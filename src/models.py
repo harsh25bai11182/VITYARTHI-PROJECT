@@ -31,7 +31,7 @@ def make_trip(trip_id, vehicle_id, origin, destination, date, time, fare):
         "origin": origin,
         "destination": destination,
         "date": date,  # YYYY-MM-DD
-        "time": time,  
+        "time": time,  # HH:MM
         "fare": float(fare),
         "created_at": datetime.utcnow().isoformat()
     }
