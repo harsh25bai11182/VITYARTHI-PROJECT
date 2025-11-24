@@ -17,8 +17,7 @@ Access to past reservations
 Simple admin route management
 
 The system operates on role-based menus:
-Students → Search, Book, View, Cancel travel
-Admin → Create & manage trips, view bookings
+Students → Search,  Create & manage trips, view bookings, Cancel travel
 
 It uses JSON for storage
 
