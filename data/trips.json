@@ -1,0 +1,137 @@
+[
+  {
+    "trip_id": "T1",
+    "vehicle_id": "V-TRAIN-01",
+    "origin": "College Station",
+    "destination": "Mumbai CSMT",
+    "date": "2025-12-01",
+    "time": "18:45",
+    "fare": 420
+  },
+  {
+    "trip_id": "T2",
+    "vehicle_id": "V-TRAIN-01",
+    "origin": "College Station",
+    "destination": "Delhi HNZM",
+    "date": "2025-12-02",
+    "time": "06:00",
+    "fare": 780
+  },
+  {
+    "trip_id": "T3",
+    "vehicle_id": "V-TRAIN-02",
+    "origin": "College Station",
+    "destination": "Bangalore SBC",
+    "date": "2025-12-01",
+    "time": "22:10",
+    "fare": 550
+  },
+  {
+    "trip_id": "T4",
+    "vehicle_id": "V-TRAIN-02",
+    "origin": "College Station",
+    "destination": "Hyderabad KCG",
+    "date": "2025-12-03",
+    "time": "05:30",
+    "fare": 480
+  },
+  {
+    "trip_id": "T5",
+    "vehicle_id": "V-TRAIN-03",
+    "origin": "College Station",
+    "destination": "Jaipur JN",
+    "date": "2025-12-01",
+    "time": "07:15",
+    "fare": 600
+  },
+  {
+    "trip_id": "T6",
+    "vehicle_id": "V-TRAIN-03",
+    "origin": "College Station",
+    "destination": "Lucknow LKO",
+    "date": "2025-12-04",
+    "time": "04:45",
+    "fare": 720
+  },
+  {
+    "trip_id": "T7",
+    "vehicle_id": "V-TRAIN-04",
+    "origin": "College Station",
+    "destination": "Patna PNBE",
+    "date": "2025-12-01",
+    "time": "10:20",
+    "fare": 900
+  },
+  {
+    "trip_id": "T8",
+    "vehicle_id": "V-TRAIN-04",
+    "origin": "College Station",
+    "destination": "Chennai MAS",
+    "date": "2025-12-03",
+    "time": "21:50",
+    "fare": 640
+  },
+  {
+    "trip_id": "T9",
+    "vehicle_id": "V-TRAIN-05",
+    "origin": "College Station",
+    "destination": "Ahmedabad ADI",
+    "date": "2025-12-02",
+    "time": "17:40",
+    "fare": 700
+  },
+  {
+    "trip_id": "T10",
+    "vehicle_id": "V-TRAIN-05",
+    "origin": "College Station",
+    "destination": "Howrah HWH",
+    "date": "2025-12-05",
+    "time": "06:15",
+    "fare": 1100
+  },
+  {
+    "trip_id": "B11",
+    "vehicle_id": "V-BUS-05",
+    "origin": "Campus Gate A",
+    "destination": "Indore ISBT",
+    "date": "2025-12-01",
+    "time": "21:00",
+    "fare": 450
+  },
+  {
+    "trip_id": "B12",
+    "vehicle_id": "V-BUS-06",
+    "origin": "Campus Gate A",
+    "destination": "Nagpur Bus Stand",
+    "date": "2025-12-02",
+    "time": "20:30",
+    "fare": 500
+  },
+  {
+    "trip_id": "B13",
+    "vehicle_id": "V-BUS-06",
+    "origin": "Campus Gate A",
+    "destination": "Bhopal ISBT",
+    "date": "2025-12-01",
+    "time": "17:00",
+    "fare": 380
+  },
+  {
+    "trip_id": "B14",
+    "vehicle_id": "V-BUS-07",
+    "origin": "Campus Gate A",
+    "destination": "Pune Swargate",
+    "date": "2025-12-03",
+    "time": "19:00",
+    "fare": 900
+  },
+  {
+    "trip_id": "B15",
+    "vehicle_id": "V-BUS-07",
+    "origin": "Campus Gate A",
+    "destination": "Surat Central",
+    "date": "2025-12-04",
+    "time": "18:15",
+    "fare": 850
+  }
+]

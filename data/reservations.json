@@ -1,0 +1,72 @@
+[
+  {
+    "reservation_id": "R-CE6A3C0F",
+    "trip_id": "B11",
+    "username": "dev104",
+    "seats": 1,
+    "created_at": "2025-11-24T13:32:52.707396"
+  },
+  {
+    "reservation_id": "R-DCBF0AE9",
+    "trip_id": "B12",
+    "username": "ishaan109",
+    "seats": 2,
+    "created_at": "2025-11-24T13:32:52.707461"
+  },
+  {
+    "reservation_id": "R-86F568A7",
+    "trip_id": "T4",
+    "username": "esha105",
+    "seats": 1,
+    "created_at": "2025-11-24T13:32:52.707626"
+  },
+  {
+    "reservation_id": "R-453031ED",
+    "trip_id": "B11",
+    "username": "sneha118",
+    "seats": 1,
+    "created_at": "2025-11-24T13:32:52.707702"
+  },
+  {
+    "reservation_id": "R-CEFF8E25",
+    "trip_id": "T10",
+    "username": "naveen114",
+    "seats": 1,
+    "created_at": "2025-11-24T13:32:52.707738"
+  },
+  {
+    "reservation_id": "R-EE70E9F9",
+    "trip_id": "T1",
+    "username": "charu103",
+    "seats": 2,
+    "created_at": "2025-11-24T13:32:52.707767"
+  },
+  {
+    "reservation_id": "R-54CFA3D8",
+    "trip_id": "T4",
+    "username": "rohan117",
+    "seats": 1,
+    "created_at": "2025-11-24T13:32:52.707780"
+  },
+  {
+    "reservation_id": "R-B240AC8C",
+    "trip_id": "T9",
+    "username": "gaurav107",
+    "seats": 4,
+    "created_at": "2025-11-24T13:32:52.707805"
+  },
+  {
+    "reservation_id": "R-A06B02F9",
+    "trip_id": "T4",
+    "username": "ojas115",
+    "seats": 3,
+    "created_at": "2025-11-24T13:32:52.707822"
+  },
+  {
+    "reservation_id": "R-9E81DF0B",
+    "trip_id": "B13",
+    "username": "aakash101",
+    "seats": 2,
+    "created_at": "2025-11-24T13:32:52.707834"
+  }
+]

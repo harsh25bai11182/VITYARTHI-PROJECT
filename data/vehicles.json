@@ -1,0 +1,50 @@
+[
+  {
+    "vehicle_id": "V-TRAIN-01",
+    "type": "train",
+    "capacity": 120,
+    "notes": "Long distance express \u2013 sleeper + general"
+  },
+  {
+    "vehicle_id": "V-TRAIN-02",
+    "type": "train",
+    "capacity": 100,
+    "notes": "South Zone express \u2013 chair car"
+  },
+  {
+    "vehicle_id": "V-TRAIN-03",
+    "type": "train",
+    "capacity": 110,
+    "notes": "North Zone superfast \u2013 sleeper"
+  },
+  {
+    "vehicle_id": "V-TRAIN-04",
+    "type": "train",
+    "capacity": 130,
+    "notes": "Bihar & Tamil Nadu long route \u2013 mixed coaches"
+  },
+  {
+    "vehicle_id": "V-TRAIN-05",
+    "type": "train",
+    "capacity": 140,
+    "notes": "East/West special \u2013 reserved class only"
+  },
+  {
+    "vehicle_id": "V-BUS-05",
+    "type": "bus",
+    "capacity": 45,
+    "notes": "AC Sleeper Coach \u2013 long distance"
+  },
+  {
+    "vehicle_id": "V-BUS-06",
+    "type": "bus",
+    "capacity": 40,
+    "notes": "Semi-sleeper intercity"
+  },
+  {
+    "vehicle_id": "V-BUS-07",
+    "type": "bus",
+    "capacity": 38,
+    "notes": "Comfort coach \u2013 interstate"
+  }
+]

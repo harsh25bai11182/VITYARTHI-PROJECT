@@ -1,0 +1,170 @@
+[
+  {
+    "username": "admin",
+    "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "student_id": "ADMIN001",
+    "is_admin": true,
+    "created_at": "2025-11-24T13:32:52.705729",
+    "plain_pw": "admin123"
+  },
+  {
+    "username": "aakash101",
+    "password_hash": "2bd2a833384945be5a4d05109f418acbc78cc41d7640842f0e881ba892651296",
+    "student_id": "S2001",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705358",
+    "plain_pw": "pass101"
+  },
+  {
+    "username": "bhavya102",
+    "password_hash": "68b5aa742a3c02d41ca5c6582f9eb685ae72218e0c93680f91d51086d45e67df",
+    "student_id": "S2002",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705381",
+    "plain_pw": "pass102"
+  },
+  {
+    "username": "charu103",
+    "password_hash": "9e436b2455b7d1b818d56b04b8985d84ac27e7fb45630e579f7b0695430fbab5",
+    "student_id": "S2003",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705390",
+    "plain_pw": "pass103"
+  },
+  {
+    "username": "dev104",
+    "password_hash": "34158b36b0dccb351ad920cf5ebb74820d7825119c647b16db4f535bfef25c65",
+    "student_id": "S2004",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705397",
+    "plain_pw": "pass104"
+  },
+  {
+    "username": "esha105",
+    "password_hash": "acb3085ac0fa0ce03af7e46da8e5ac3bbb2c03d6a28cfa95c778daa5d525412b",
+    "student_id": "S2005",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705404",
+    "plain_pw": "pass105"
+  },
+  {
+    "username": "faiz106",
+    "password_hash": "d0f775036f29ba7540be994605826ab25b7f153a1d8157e5e09218b8fa59aa91",
+    "student_id": "S2006",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705411",
+    "plain_pw": "pass106"
+  },
+  {
+    "username": "gaurav107",
+    "password_hash": "225adbca5f1445b65f065079fd6b3fdda829b6e660554b6200e86fe4a129672e",
+    "student_id": "S2007",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705418",
+    "plain_pw": "pass107"
+  },
+  {
+    "username": "himani108",
+    "password_hash": "02548935a13223836dc0fdfa7574d4adc6bd5b60a99296cc54cefe1e7103fbcd",
+    "student_id": "S2008",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705430",
+    "plain_pw": "pass108"
+  },
+  {
+    "username": "ishaan109",
+    "password_hash": "cf78821e30a469451bbb37eb5bd9976ea68d77ea3dd54ac3dfd83de5cf91eba5",
+    "student_id": "S2009",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705456",
+    "plain_pw": "pass109"
+  },
+  {
+    "username": "jaya110",
+    "password_hash": "8f3b97e5c348a48d4cde1cf58b7746221cc4f23b1471cb7b530a4e4b7ac5b887",
+    "student_id": "S2010",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705465",
+    "plain_pw": "pass110"
+  },
+  {
+    "username": "karan111",
+    "password_hash": "b2c56341cc2b9f8bf898bd7528dd39e641b51c4fbd51f241b46ad70872dd1b99",
+    "student_id": "S2011",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705471",
+    "plain_pw": "pass111"
+  },
+  {
+    "username": "lakshya112",
+    "password_hash": "a1f5626f394c753975a9060627b1894e2c82436d7d9fb6103f58455641771682",
+    "student_id": "S2012",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705478",
+    "plain_pw": "pass112"
+  },
+  {
+    "username": "mina113",
+    "password_hash": "d2d8fdd3e123c147ca908c7fec41c7fe5746e7cc1b90e3507859ab0a7a0212d1",
+    "student_id": "S2013",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705486",
+    "plain_pw": "pass113"
+  },
+  {
+    "username": "naveen114",
+    "password_hash": "6a4ca776c3ef0c0d69107200ff1ff66217511aab72e032962fb5d6c01aabb158",
+    "student_id": "S2014",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705492",
+    "plain_pw": "pass114"
+  },
+  {
+    "username": "ojas115",
+    "password_hash": "62fbf022ff434c1cf42eed2a12c109388af61ea661a1cf75e8a16b45f0063c77",
+    "student_id": "S2015",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705516",
+    "plain_pw": "pass115"
+  },
+  {
+    "username": "pooja116",
+    "password_hash": "747ff88fd5750ff3ff02e7b5bd02508eb0c9dbaee5bb5d472fc9393878c8a733",
+    "student_id": "S2016",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705524",
+    "plain_pw": "pass116"
+  },
+  {
+    "username": "rohan117",
+    "password_hash": "96a194c82bf3b9e984cf3740c3a29632c9f2ac55a35d46a5c719c6ff65823d24",
+    "student_id": "S2017",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705531",
+    "plain_pw": "pass117"
+  },
+  {
+    "username": "sneha118",
+    "password_hash": "b48166b6083b5cc4becda5bf00282abf57c1166b1d4e9c65f59be95659320e39",
+    "student_id": "S2018",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705539",
+    "plain_pw": "pass118"
+  },
+  {
+    "username": "tanya119",
+    "password_hash": "3f5a78fdff13749416cd1f00e6919427a387c843f78e3fe11dda1f471198276e",
+    "student_id": "S2019",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705546",
+    "plain_pw": "pass119"
+  },
+  {
+    "username": "uday120",
+    "password_hash": "8fca772f847cd309ee9f795d10aa141ac4bef4d87f4b80272e2573cd51010ea1",
+    "student_id": "S2020",
+    "is_admin": false,
+    "created_at": "2025-11-24T13:32:52.705553",
+    "plain_pw": "pass120"
+  }
+]
