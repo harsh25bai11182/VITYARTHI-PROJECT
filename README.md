@@ -60,7 +60,7 @@ Prerequisites
 Python 3.x installed
 
 Installation
-Clone or download the project folder:https://github.com/harsh25bai11182/VITYARTHI-PROJECT/tree/main
+Clone or download the project folder:https://github.com/harsh25bai11182/VITYARTHI-PROJECT
 
 Running the Application
 
